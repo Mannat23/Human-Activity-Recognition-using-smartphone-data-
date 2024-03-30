@@ -12,21 +12,21 @@ After importing the libraries and the data, we preprocessed the data by checking
 2. Loading data
 
 3. Data preprocessing
-3.a Checking for duplicates
-3.b Checking for missing values
-3.c Checking for class imbalance
+   * Checking for duplicates
+   * Checking for missing values
+   * Checking for class imbalance
 
 4. Exploratory Data Analysis (EDA)
-4.a Analysing tBodyAccMag-mean feature
-4.b Analysing Angle between X-axis and gravityMean feature
-4.c Visualising data using PCA
-4.c Visualising data using t-SNE
+   * Analysing tBodyAccMag-mean feature
+   * Analysing Angle between X-axis and gravityMean feature
+   * Visualising data using PCA
+   * Visualising data using t-SNE
 
 5. ML Model
-5.a Logistic regression model with Hyperparameter tuning and cross validation
-5.b Kernel SVM model with Hyperparameter tuning and cross validation
-5.c Decision tree model with Hyperparameter tuning and cross validation
-5.d Random forest model with Hyperparameter tuning and cross validation
+   * Logistic regression model with Hyperparameter tuning and cross validation
+   * Kernel SVM model with Hyperparameter tuning and cross validation
+   * Decision tree model with Hyperparameter tuning and cross validation
+   * Random forest model with Hyperparameter tuning and cross validation
 
 
 Accuracy
